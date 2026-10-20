@@ -9,7 +9,7 @@ into the Rust core or registered from TypeScript in a few lines — so a pane ca
 query the DOM, call your app's APIs, and pipe the results through filters into
 box-drawn tables. `Ctrl-B %` splits panes, `session new` forks shells.
 
-**[Try the live demos →](https://benjamin-small.github.io/browser-terminal/)**
+**[Try the live demos →](https://poietic-tech.github.io/browser-terminal/)**
 
 ## Install
 
@@ -454,10 +454,10 @@ because its `boolean` has nowhere to put an error. So `undefined` from
 
 ## Links
 
-- [Live demos](https://benjamin-small.github.io/browser-terminal/) — vanilla,
+- [Live demos](https://poietic-tech.github.io/browser-terminal/) — vanilla,
   React, and Svelte
-- [Source and development docs](https://github.com/benjamin-small/browser-terminal)
-- [Issues](https://github.com/benjamin-small/browser-terminal/issues)
+- [Source and development docs](https://github.com/poietic-tech/browser-terminal)
+- [Issues](https://github.com/poietic-tech/browser-terminal/issues)
 
 Apache-2.0
 
@@ -479,5 +479,5 @@ Redirection is installed separately so the adapter does not replace existing
 host hooks. OPFS scratch storage and experimental file-backed block access are
 also available.
 
-See the [filesystem guide](https://github.com/benjamin-small/browser-terminal/blob/main/docs/filesystem.md)
+See the [filesystem guide](https://github.com/poietic-tech/browser-terminal/blob/main/docs/filesystem.md)
 for setup, command examples, byte I/O, cancellation, and save limitations.

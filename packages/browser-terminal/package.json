@@ -4,14 +4,14 @@
   "description": "A terminal/tmux experience for any web page, powered by a Rust/WASM core with structured-value pipes.",
   "license": "Apache-2.0",
   "author": "Benjamin Small",
-  "homepage": "https://benjamin-small.github.io/browser-terminal/",
+  "homepage": "https://poietic-tech.github.io/browser-terminal/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benjamin-small/browser-terminal.git",
+    "url": "git+https://github.com/poietic-tech/browser-terminal.git",
     "directory": "packages/browser-terminal"
   },
   "bugs": {
-    "url": "https://github.com/benjamin-small/browser-terminal/issues"
+    "url": "https://github.com/poietic-tech/browser-terminal/issues"
   },
   "keywords": [
     "terminal",
