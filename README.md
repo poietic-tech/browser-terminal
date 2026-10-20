@@ -3,7 +3,7 @@
 A terminal/tmux experience for any web page, powered by a Rust core compiled to
 WebAssembly.
 
-[Try the live demos](https://benjamin-small.github.io/browser-terminal/)
+[Try the live demos](https://poietic-tech.github.io/browser-terminal/)
 
 A floating terminal panel docks at the bottom of your page and runs a shell-like
 language with **structured-value pipes** (nushell/PowerShell style). Commands can
