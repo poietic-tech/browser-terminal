@@ -4,6 +4,16 @@ browser-terminal uses semantic versioning when it publishes versioned artifacts.
 User-visible changes are summarized in release notes, including upgrade steps
 and breaking changes.
 
+## v0.6.1 — New repository home
+
+- The repository moved to `poietic-tech/browser-terminal`; the package's
+  `homepage`, `repository` and `bugs` fields and the documentation links point
+  there. The package name is unchanged.
+- Releases publish through npm trusted publishing with provenance.
+- No API or behaviour changes.
+
+See the [release notes](release-notes/v0.6.1.md).
+
 ## v0.6.0 — Host messages and quieter consoles
 
 - `bt.print(text, { pane? })` writes host lines above a pane's prompt and
